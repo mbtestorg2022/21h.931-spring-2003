@@ -19,14 +19,76 @@ Subject Requirements
 
 Active class participation is central to our work together. Attendance is mandatory, and students are expected to arrive in class on time and prepared to discuss common readings. A student who misses two or more class sessions will automatically fail the subject. Students will write a five-page paper, due in its final version in week #9, and a fifteen-page research paper due in week #14, the final day of classes. Students will make two oral presentations in class, in week #4 and week #14. Before some class sessions, students will submit electronic responses to questions regarding the week's readings; these questions will be distributed in advance. There will be no exams and no final. Each assignment will be weighted as follows in the calculation of the final grade, although these calculations will also take into account improved performance during the course of the semester:
 
-| ACTIVITY | POINTS |
-| --- | --- |
-| Class Participation | 10 |
-| Homeworks (6, 5 pts each) | 30 |
-| Fifteen-Page Research Paper | 80 |
-| Five-Page Paper | 40 |
-| Oral Presentations | 20 each  {{< br >}}40 total |
-| TOTAL | 200 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homeworks (6, 5 pts each)
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fifteen-Page Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+80
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five-Page Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20 each  
+40 total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+TOTAL
+{{< tdclose >}}
+{{< tdopen >}}
+200
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
